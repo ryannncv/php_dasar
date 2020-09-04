@@ -1,0 +1,4 @@
+<?php
+
+    echo "belajar github ";
+?>
